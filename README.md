@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **khanaban505@gmail.com**
 
-- ⚡ Fun fact **I am a big fan of Digimon!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abankhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abankhandev" height="30" width="40" /></a>

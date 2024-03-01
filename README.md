@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aban Khan</h1>
 <h3 align="center">A passionate full stack developer from the USA</h3>
 
-- 👨‍💻 All of my projects are available at [abankhan.com](abankhan.com)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Node or react**
 
 - 📫 How to reach me **khanaban505@gmail.com**

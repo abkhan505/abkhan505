@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aban Khan</h1>
 <h3 align="center">A passionate full stack developer from the USA</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node or react**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node or React**
 
 - 📫 How to reach me **khanaban505@gmail.com**
 

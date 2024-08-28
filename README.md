@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aban Khan</h1>
-<h3 align="center">A passionate full stack developer from the USA</h3>
+<h3 align="center">A passionate computer software engineer from the USA</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node or React**
 
